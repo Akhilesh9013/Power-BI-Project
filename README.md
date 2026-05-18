@@ -44,7 +44,7 @@ Provided valuable insights into employee behavior, attrition patterns, and workf
 
 ## 📷 Dashboard Screenshot
 
-![HR Analytics Dashboard](Screenshot%2026-05-18%122425.ong)
+![HR Analytics Dashboard](Screenshot%202026-05-18%20122425.png)
 
 ## 📂 Files Included
 
