@@ -42,6 +42,10 @@ This project analyzes HR employee data using Power BI to understand employee att
 
 Provided valuable insights into employee behavior, attrition patterns, and workforce performance, helping improve HR strategies and employee retention planning.
 
+## 📷 Dashboard Screenshot
+
+![HR Analytics Dashboard](Screenshot%2026-05-18%122425.ong)
+
 ## 📂 Files Included
 
 - Power BI Dashboard (.pbix)  
